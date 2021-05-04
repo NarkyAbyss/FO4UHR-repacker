@@ -1,6 +1,7 @@
 @echo off
 title FO4 UHR DLC duplicate remover and repacker
 rem requires FO4 UHR DLC and Creation Kit intalled
+rem requires bat file from https://www.nexusmods.com/fallout4/mods/37518
 rem you will need about 10GB free space
 
 set currentDir=%cd%
